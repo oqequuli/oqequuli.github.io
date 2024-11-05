@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqequuli.github.io/EJG/sitemap_index.txt
+Sitemap: https://oqequuli.github.io/JHs/sitemap_index.txt
+Sitemap: https://oqequuli.github.io/bYp/sitemap_index.txt
+Sitemap: https://oqequuli.github.io/wsg/sitemap_index.txt
